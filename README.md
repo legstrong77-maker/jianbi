@@ -2,6 +2,10 @@
 
 > 一鍵把長內容剪成台灣繁體中文的各平台貼文草稿。Threads · X · LINE · IG。
 
+🌐 **Live demo**: [jianbi.vercel.app](https://jianbi.vercel.app) — Demo 模式已啟用，不用設 Key 直接用（每 IP 每小時 10 次）。
+
+[![Live Demo](https://img.shields.io/badge/live-demo-emerald)](https://jianbi.vercel.app) [![Next.js](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org) [![License: MIT](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
+
 繁中創作者（YouTuber、Podcaster、電子報作者、Threads 創作者）痛點明確：
 寫完長內容後，要在各平台重新包裝成短貼文太費時；現有英文工具（Repurpose.io、Opus Clip）
 翻譯腔重，輸出「視頻、質量、信息」那類大陸用語，不像台灣人寫的。
